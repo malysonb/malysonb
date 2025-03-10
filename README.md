@@ -2,15 +2,17 @@
 
 #### Projects currently under development:
 
-👨‍💻 [Ludkerno](https://github.com/malysonb/Ludkerno) Make your games easily with this framework.
-
-👨‍💻 [RadiPako](https://github.com/malysonb/RadiPako) Standard file archiver for Ludkerno made games.
+👨‍💻 [Arcade](https://github.com/malysonb/Arcade) Self-Hosted Emulators Library.
+👨‍💻 [EmulatorJS-Arcade](https://github.com/malysonb/EmulatorJS-arcade) Fork from EmulatorJS.
 
 #### Hiatuses:
 
 🛑 [RadikoNetcode](https://github.com/malysonb/RadikoNetcode) Simple and light netcode for multiplayer.
+🛑 [Ludkerno](https://github.com/malysonb/Ludkerno) Make your games easily with this framework.
 
 #### Completed Projects:
+
+✅ [RadiPako](https://github.com/malysonb/RadiPako) Standard file archiver for Ludkerno made games.
 
 ✅ [BatalhaNaval](https://github.com/malysonb/BatalhaNaval) Battleship P2P multiplayer game. 
 
