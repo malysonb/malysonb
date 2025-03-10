@@ -8,8 +8,6 @@
 
 #### Hiatuses:
 
-🛑 [RadikoNetcode](https://github.com/malysonb/RadikoNetcode) Simple and light netcode for multiplayer.
-
 🛑 [Ludkerno](https://github.com/malysonb/Ludkerno) Make your games easily with this framework.
 
 #### Completed Projects:
