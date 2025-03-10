@@ -3,11 +3,13 @@
 #### Projects currently under development:
 
 👨‍💻 [Arcade](https://github.com/malysonb/Arcade) Self-Hosted Emulators Library.
+
 👨‍💻 [EmulatorJS-Arcade](https://github.com/malysonb/EmulatorJS-arcade) Fork from EmulatorJS.
 
 #### Hiatuses:
 
 🛑 [RadikoNetcode](https://github.com/malysonb/RadikoNetcode) Simple and light netcode for multiplayer.
+
 🛑 [Ludkerno](https://github.com/malysonb/Ludkerno) Make your games easily with this framework.
 
 #### Completed Projects:
