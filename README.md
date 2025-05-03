@@ -36,7 +36,7 @@
 
 👨‍💻 [EmulatorJS-Arcade](https://github.com/malysonb/EmulatorJS-arcade) - Fork from EmulatorJS.
 
-[Ludkerno](https://github.com/malysonb/Ludkerno) - Make your games easily with this framework.
+👨‍💻 [Ludkerno](https://github.com/malysonb/Ludkerno) - Make your games easily with this framework.
 
 #### Hiatuses:
 
